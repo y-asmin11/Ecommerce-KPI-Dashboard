@@ -1,4 +1,4 @@
-# 🛒 E-commerce KPI Dashboard (Excel)
+# E-commerce KPI Dashboard (Excel)
 
 This Excel dashboard project tracks and visualizes key performance indicators (KPIs) for a fictional e-commerce business. It offers a clean, interactive interface that allows users to monitor performance, filter data, and extract insights across multiple dimensions.
 
